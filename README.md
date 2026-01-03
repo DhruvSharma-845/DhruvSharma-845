@@ -99,9 +99,9 @@ Curious learner of agentic AI systems. Hands-on with **LangGraph**, **MCP server
 ### 💼 Professional Impact
 
 | Achievement                                                | Impact                                                                                            |
-| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --- |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 🏗️ **Cloud-Native AEM Forms Designer**                     | Foundational contributor in architecting & building a cloud-native platform from scratch at Adobe |
-| ⚡ **WebAssembly based PDF Creation Engine for AEM Forms** | Single-handedly built WASM version of legacy C++ engine, **reducing backend calls by 75%**        |     |
+| ⚡ **WebAssembly based PDF Creation Engine for AEM Forms** | Single-handedly built WASM version of legacy C++ engine, **reducing backend calls by 75%**        |
 | 🚀 **Runtime Modernization**                               | Upgraded C++ PDF engine runtime to VS2019 (Windows) and modern gcc (Linux)                        |
 
 ### 🥇 Recognition
